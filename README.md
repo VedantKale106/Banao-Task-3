@@ -1,6 +1,6 @@
 # Twitter Profile Scraper
 
-[![Video Explanation](https://drive.google.com/file/d/1m2nyhIas3qEFBislK40xYTYFASO4Dv7c/view?usp=sharing)
+##Video link - https://drive.google.com/file/d/1m2nyhIas3qEFBislK40xYTYFASO4Dv7c/view?usp=sharing
 
 This project scrapes Twitter profile data (bio, following count, followers count, location, website) from a list of Twitter profile links provided in a CSV file and stores the data in an SQLite database.
 
